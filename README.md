@@ -1,3 +1,4 @@
+![Uploading screencapture-localhost-3000-2021-10-18-22_43_49.png…]()
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
